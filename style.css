@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', monospace;
+    background-color: #0f0f0f;
+    color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+}
+button {
+    background-color: transparent;
+    border: 1px solid #f0f0f0;
+    color: #f0f0f0;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: #f0f0f0;
+    color: #0f0f0f;
+}
+#capsule.hidden {
+    display: none;
+    margin-top: 20px;
+}
+#capsule.show {
+    display: block;
+    margin-top: 20px;
+}
