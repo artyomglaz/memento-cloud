@@ -35,4 +35,4 @@ your last message
 
 Автор: [artyomglaz](https://github.com/artyomglaz)  
 Email: zdravstvuyte@gmail.com  
-Telegram: [@artyomglaz](https://t.me/artyomglaz)
+Telegram: [@artglaz](https://t.me/artyomglaz)
